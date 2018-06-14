@@ -43,6 +43,7 @@ GEM
       ruby_dep (~> 1.2)
     mercenary (0.3.6)
     jekyll-theme-hydejack (7.5.1)
+      jekyll (~> 3.6)
     minima (2.5.0)
       jekyll (~> 3.5)
       jekyll-feed (~> 0.9)
